@@ -1,16 +1,21 @@
-### Hi there 👋
+# { Hello + " ! " }
 
-<!--
-**henriquegoncalvessilva/henriquegoncalvessilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Henrique Gonçalves and located in Brazil. I’m UX/UI Designer, that been working as Unity Developer(VR, AR) since 2016, but since the final of last year too I’m dedicated the learn and work as Front-End developer.
 
-Here are some ideas to get you started:
+# Skills - Front End
+ - Figma
+ 
+ - HTML5
+  
+ - CSS3
+	 - [x] Basic
+		- [x] Media Queries
+		- [x] Flexbox
+		- [x] Grid
+ 
+ - Javascript
+	 - [x] Basic
+	 - [ ] Intermediate
+	 - [ ] Advanced
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React - Learning currently 
