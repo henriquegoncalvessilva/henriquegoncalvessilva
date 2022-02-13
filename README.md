@@ -32,6 +32,10 @@ Ps: This project is not responsive.
 
 #### [Go to the project](https://henriquegoncalvessilva.github.io/PageSite_Guitarra_E-commerce/index.html)
 
+After, I caught this project and convert it in React as my first exercise. 
+
+#### [Go to the project in React](https://henriquegoncalvessilva.github.io/WebPage_React_Guittaras/index.html)
+
 ## - LandingPage Fake
 
 ### - Description: 
