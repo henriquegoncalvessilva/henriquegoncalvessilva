@@ -50,6 +50,6 @@ In this project I used Umso APP([https://app.umso.com/start](https://app.umso.co
 
 **This project was an study**. The layout was made by Bruna Fujie and coded by Henrique Gonçalves. 
 
-In this project Henrique Gonçalves wanted used **HTML5, CSS3** and a little bit of **Javascript** for some interactions.
+In this project I wanted used **HTML5, CSS3** and a little bit of **Javascript** for some interactions.
 
 [Go to the project](https://henriquegoncalvessilva.github.io/WebPage_PrefeituraCuritiba/index.html)
