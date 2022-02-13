@@ -1,6 +1,6 @@
 # { Hello + " ! " }
 
-Hi, my name is Henrique Gonçalves and located in Brazil. I’m UX/UI Designer, that been working as Unity Developer(VR, AR) since 2016, but since the final of last year too I’m dedicated the learn and work as Front-End developer.
+Hi, my name is Henrique Gonçalves and located in Brazil. I’m UX/UI Designer, that been working as Unity Developer(VR, AR) since 2016, but since the final of last year too I’m dedicated the learn and work as Front-End.
 
 # Skills - Front End
  - Figma
