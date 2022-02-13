@@ -32,7 +32,7 @@ Ps: This project is not responsive.
 
 #### [Go to the project](https://henriquegoncalvessilva.github.io/PageSite_Guitarra_E-commerce/index.html)
 
-## - "LandingPage Fake"
+## - LandingPage Fake
 
 ### - Description: 
 
@@ -40,7 +40,7 @@ In this project I used Umso APP([https://app.umso.com/start](https://app.umso.co
 
 #### [Go to the project](https://henriquegoncalvessilva.github.io/LandingPageFake_FrontEnd/index.html)
 
-## - "WebPage Prefeitura de Curitiba"
+## - WebPage Prefeitura de Curitiba
 
 ### - Description: 
 
