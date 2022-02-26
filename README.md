@@ -61,7 +61,7 @@ In this project I wanted used **HTML5, CSS3** and a little bit of **Javascript**
 
 This project was an study about **React.Js**. 
 
-In this project I used all thing what I learn in **my first month studing react**. I loved the result, because I achieved use some important resources: 
+In this project I used all thing what I learn in **my first month studing React**. I loved the result, because I achieved use some important resources: 
 
  - Hooks
 	 - UseState
